@@ -32,3 +32,7 @@ Users can add, edit, delete, and mark tasks as completed.
 3. Use the pencil icon to edit tasks.  
 4. Use the checkbox to mark tasks as completed.  
 5. Use the trash icon to delete tasks.
+
+---
+
+![To-Do App Screenshot](Screenshot%202025-06-06-035053.png)
